@@ -1,13 +1,20 @@
 # GoodCrypt v3
-<img src="welcome.ico" alt="">
-<br>
-<b>Program interface</b>
-<img src="App screen.png" alt="">
-Python version 3.8 +
-<br>
-pip install PySide2
-<br>
-pip install pyAesCrypt
-<br>
-pip install webbrowser
-<br>
+
+Приложение для шифрования файлов написанное на Python, QT
+
+## Установка библиотек
+
+
+```bash
+pip install -r requirements.txt
+```
+
+## запуск
+
+```bash
+python main.py
+```
+
+
+## Лицензия
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
